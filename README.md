@@ -98,9 +98,9 @@ Tôi là một **lập trình viên đam mê** với hơn X năm kinh nghiệm t
 
 <div align="center">
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)  
+**Email:** [nguyenleduykhang13@gmail.com](mailto:nguyenleduykhang13@gmail.com)  
 **Website/Blog:** [yourwebsite.com](https://yourwebsite.com)  
-**LinkedIn:** [linkedin.com/in/duykhang-dev](https://linkedin.com/in/duykhang-dev)
+**LinkedIn:** [linkedin.com/in/duy-khang-nguy%E1%BB%85n-l%C3%AA-b94a67212/?skipRedirect=true](https://www.linkedin.com/in/duy-khang-nguy%E1%BB%85n-l%C3%AA-b94a67212/?skipRedirect=true)
 
 </div>
 
