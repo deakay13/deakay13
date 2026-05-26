@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/gradient?type=wave&color=0:4F46E5,100:7C3AED&height=280&section=header&text=Duy%20Khang&fontSize=90&fontAlignY=45&fontColor=ffffff&animation=fadeIn" alt="Duy Khang Banner" width="100%"/>
+  <img src="asset/Logo.png"/>
   
   <h1>👋 Xin chào! Tôi là Duy Khang</h1>
   
@@ -7,13 +7,13 @@
     <strong>Full-Stack Developer</strong> | <strong>Problem Solver</strong> | <strong>Tech Enthusiast</strong>
   </p>
 
-  <a href="https://github.com/duykhang-dev">
+  <a href="https://github.com/deakay13">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/duykhang-dev">
+  <a href="https://www.linkedin.com/in/duy-khang-nguy%E1%BB%85n-l%C3%AA-b94a67212/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nguyenleduykhang13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
